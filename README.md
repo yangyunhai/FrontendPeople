@@ -7,7 +7,7 @@
 点个`star`让我们一起帮助更多人
 
 ### 同步更新小程序
-<img src="https://npmhook.oss-cn-beijing.aliyuncs.com/2102042136_1612445773643.jpg" height="250px">
+<img src="https://npmhook.oss-cn-beijing.aliyuncs.com/2102042209_1612447765530.png" height="250px">
 
 
 ## 优质文章汇总
