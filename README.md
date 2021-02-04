@@ -53,7 +53,7 @@
 - [全面的技术博客](https://khalilstemmler.com/)
 - [在线面试测试](https://www.coderbyte.com)
 - [技术博客](https://heydesigner.com)
-- [博客倒流工具/](https://openwrite.cn/)
+- [博客倒流工具](https://openwrite.cn/)
 - [简历模板](https://github.com/Wscats/CV)
 - [技术博客](https://www.yangtao.site)
 - [常用JS代码块](https://1loc.dev/)
