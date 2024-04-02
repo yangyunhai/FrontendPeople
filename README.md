@@ -1,6 +1,3 @@
-# 作者微信
-<img src="https://pic1.zhimg.com/80/v2-69448806d6a2a0627733e2ece4ff3f52_720w.jpg" height="250px">
-
 # 前端面试进阶宝典
 
 前端进阶资料及其面试题汇总项目，项目长期维护，欢迎更多人一起加入维护.
@@ -12,8 +9,8 @@
 ### 同步更新小程序
 <img src="https://npmhook.oss-cn-beijing.aliyuncs.com/2102042209_1612447765530.png" height="250px">
 
-大家好，我是鬼哥，欢迎关注我的公众号，每天跟我一起前端进阶
-<img src="https://npmhook.oss-cn-beijing.aliyuncs.com/2102042131_1612445463996.png" height="250px">
+大家好，我是鬼哥，欢迎添加我的微信，每天跟我一起前端进阶
+<img src="https://pic1.zhimg.com/80/v2-69448806d6a2a0627733e2ece4ff3f52_720w.jpg" height="250px">
 
 
 ## 优质文章汇总
