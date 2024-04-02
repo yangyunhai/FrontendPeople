@@ -6,10 +6,10 @@
 
 点个`star`让我们一起帮助更多人
 
-### 同步更新小程序
-<img src="https://npmhook.oss-cn-beijing.aliyuncs.com/2102042209_1612447765530.png" height="250px">
+## 作者
 
 大家好，我是鬼哥，欢迎添加我的微信，每天跟我一起前端进阶
+
 <img src="https://pic1.zhimg.com/80/v2-69448806d6a2a0627733e2ece4ff3f52_720w.jpg" height="250px">
 
 
