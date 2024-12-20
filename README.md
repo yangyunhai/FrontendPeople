@@ -12,6 +12,10 @@
 
 <img src="https://pic1.zhimg.com/80/v2-69448806d6a2a0627733e2ece4ff3f52_720w.jpg" height="250px">
 
+## 作者公众号
+
+<img src="https://pic1.zhimg.com/80/v2-394e307ad1573b789bf250cadfec55b0_720w.png" height="250px">
+
 
 ## 优质文章汇总
 - [高级前端必会的十个函数](https://juejin.cn/post/6844904175592013838)
